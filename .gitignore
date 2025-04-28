@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+
+# Build directories created during packaging
+build/
+dist/
+
+# Virtual environment directory
+venv/
+
+# macOS system files
+.DS_Store
+
+# Image files, which might be temporary or large and should not be tracked
+*.jpg
+*.png
+
+# Pickle files, which are binary and likely used for saving data
+*.pckl
+
+# Python compiled bytecode files
+*.pyc
